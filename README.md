@@ -1,0 +1,1 @@
+"This Windows Isn't A Flashdrive" is a clickable regedit script file (.reg) to fix when Windows thinks its "Windows To Go" running from an USB drive.
